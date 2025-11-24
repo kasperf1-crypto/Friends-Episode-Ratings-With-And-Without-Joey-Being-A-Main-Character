@@ -1,0 +1,242 @@
+Unique,episode_title ,episode_length,season,location_episodes,characters_episodes,male_characters,episode_awards,female_characters,ratings_episodes,rachel_mc,monica_mc,phoebe_mc,episode_runtime,joey_mc,chandler_mc,ross_mc,episode_type,location_episode,mem_relationship,cp_visit,guest_stars,episode_runtime
+F001 1,The One where Monica Gets a Roommate,22,1,4,7,6,0,3,8.1,1,1,0,2,0,0,0,1,1,1,4,0,1
+F001 2 ,The One with the Sonogram at the End ,22,1,6,7,6,0,3,7.8,1,1,0,1,0,0,1,1,1,1,3,0,1
+F001 3,The One with the Thumb,22,1,4,8,6,0,3,8,0,1,1,1,0,1,0,1,1,1,3,0,1
+F001 4,The One with George Stephanopoulos,22,1,4,8,7,0,3,7.9,0,0,0,1,1,1,1,1,4,1,2,1,1
+F001 5 ,The One with the East German Laundry Detergent ,22,1,5,7,6,0,4,8.3,1,1,0,1,1,1,1,1,4,1,2,0,1
+F001 6,The One with the Butt ,22,1,5,7,6,0,3,8,1,1,0,1,1,1,0,1,1,1,3,0,1
+F001 7,The One with the Blackout ,22,1,4,7,7,0,3,8.9,1,0,0,1,0,1,1,1,1,1,1,0,1
+F001 8,The One Where Nana Dies Twice ,22,1,5,8,6,0,3,7.9,0,1,0,1,0,1,1,1,1,1,2,0,1
+F001 9,The One Where Underdog Gets Away ,22,1,5,8,7,0,4,8.1,1,1,0,1,0,0,0,1,1,1,2,0,1
+F001 10,The One with the Monkey ,22,1,5,7,6,0,4,7.9,0,0,1,1,0,0,1,1,1,1,3,0,1
+F001 11,The One with Mrs. Bing ,22,1,4,9,6,0,3,8,0,1,1,1,1,1,1,1,1,1,2,0,1
+F001 12,The One with the Dozen Lasagnas ,22,1,4,8,6,0,4,8,1,0,1,1,1,1,1,1,1,1,3,0,1
+F001 13,The One with the Boobies,22,1,4,7,6,0,4,8.5,1,0,1,1,1,1,0,1,1,1,2,0,1
+F001 14,The One with the Candy Hearts ,22,1,4,8,6,0,5,8.1,0,0,0,1,1,1,1,1,4,1,2,0,1
+F001 15,The One with the Stoned Guy,22,1,3,7,6,0,5,8,0,1,0,1,0,0,1,1,1,0,1,0,1
+F001 16,The One with Two Parts: Part 1 ,22,1,4,7,7,0,3,8,0,1,1,1,1,1,1,1,1,1,3,0,1
+F001 17,The One with Two Parts: Part 2 ,22,1,4,8,7,0,3,8.3,1,0,0,1,1,0,0,1,1,1,3,0,1
+F001 18 ,The One with All the Poker ,22,1,3,7,6,0,4,8.7,1,0,0,1,0,0,0,1,1,1,2,0,1
+F001 19 ,The One Where the Monkey Gets Away ,22,1,4,7,6,0,3,7.9,1,0,0,1,0,0,1,1,1,1,3,0,1
+F001 20 ,The One with the Evil Orthodontist ,22,1,4,7,6,0,4,7.7,1,1,0,1,0,1,0,1,1,1,2,0,1
+F001 21,The One with the Fake Monica ,22,1,6,7,6,0,5,7.6,0,1,0,1,1,0,1,1,1,0,2,0,1
+F001 22,The One with the Ick Factor ,22,1,6,7,6,0,3,8.1,0,0,1,1,0,1,0,1,3,0,3,0,1
+F001 23,The One with the Birth,22,1,6,8,6,0,6,8.6,1,0,0,1,1,0,1,1,4,1,1,0,1
+F001 24,The One Where Rachel Finds out ,22,1,5,8,4,0,3,8.7,1,1,0,1,1,1,1,1,1,1,3,0,1
+F002 1,The One with Ross's New Girlfriend,22,2,6,7,4,0,4,8.4,1,0,0,1,1,1,1,1,4,1,3,0,1
+F002 2 ,The One with the Breast Milk,22,2,7,7,5,0,4,8,0,0,0,1,1,0,1,1,4,1,3,0,1
+F002 3,The One Where Heckles Dies,22,2,7,8,5,0,4,8.2,0,0,0,1,0,1,1,1,1,1,2,0,1
+F002 4,The One with Phoebe's Husband,22,2,5,8,5,0,3,7.8,0,0,1,1,0,0,0,1,1,1,1,0,1
+F002 5 ,The One with Five Steaks and an Eggplant,22,2,4,8,4,0,3,8.1,0,1,0,1,1,1,1,1,1,1,3,0,1
+F002 6,The One with the Baby on the Bus ,22,2,6,7,5,0,5,8.4,0,0,0,1,1,1,1,1,4,1,3,1,1
+F002 7,The One Where Ross Finds Out ,22,2,5,8,4,0,3,8.9,0,0,0,1,0,1,1,1,1,1,3,0,1
+F002 8,The One with the List ,22,2,5,7,5,0,4,8.3,1,0,0,1,1,1,1,1,1,1,2,0,1
+F002 9,The One with Phoebe's Dad ,22,2,4,8,5,0,4,7.8,0,0,1,1,0,0,0,1,1,1,2,0,1
+F002 10,The One with Russ,22,2,4,8,5,0,4,7.8,1,0,0,1,0,0,1,1,1,1,3,0,1
+F002 11,The One with the Lesbian Wedding,22,2,5,8,8,0,4,7.9,1,0,0,1,0,0,0,1,4,1,1,0,1
+F002 12,The One After the Superbowl: Part 1,44,2,6,10,8,1,5,8.5,0,0,0,2,1,0,1,1,1,1,1,1,2
+F002 13,The One After the Superbowl: Part 2,44,2,6,10,5,0,3,8.6,0,0,0,2,0,1,1,1,1,1,1,1,2
+F002 14,The One with the Prom Video ,22,2,4,8,5,2,3,9.3,1,1,0,1,1,1,0,1,1,1,3,0,1
+F002 15,The One Where Ross and Rachel ... You Know ,22,2,4,8,5,0,3,8.7,0,0,0,1,0,1,1,1,4,1,3,0,1
+F002 16,The One Where Joey Moves Out ,22,2,4,8,4,0,3,8.5,1,1,0,1,1,1,0,1,1,1,2,0,1
+F002 17,The One Where Eddie Moves In,22,2,5,7,5,0,3,8.1,0,0,0,1,0,1,1,1,1,1,3,0,1
+F002 18 ,The One Where Dr. Ramoray Dies ,22,2,5,8,5,0,3,8.3,0,0,0,1,1,1,1,1,1,1,2,0,1
+F002 19 ,The One Where Eddie Won't Go ,22,2,5,8,4,0,3,8.3,0,0,0,1,1,1,1,1,1,1,3,0,1
+F002 20 ,The One Where Old Yeller Dies ,22,2,5,7,5,0,3,8,0,0,0,1,1,1,1,1,1,1,3,0,1
+F002 21,The One with the Bullies,22,2,5,8,5,0,3,7.9,0,0,1,1,1,1,1,1,2,1,4,0,1
+F002 22,The One with the Two Parties,22,2,5,8,6,0,4,8.9,0,0,0,1,0,0,0,1,1,1,1,0,1
+F002 23,The One with the Chicken Pox,22,2,5,9,6,0,3,7.9,0,0,0,1,1,1,0,1,3,0,2,1,1
+F002 24,The One with Barry and Mindy's Wedding,22,2,5,9,6,0,3,8.1,1,1,0,1,1,1,1,1,1,1,1,1,1
+F003 1,The One with the Princess Leia Fantasy ,22,3,4,7,4,0,3,8.3,1,0,0,1,1,1,1,1,1,1,3,0,1
+F003 2 ,The One Where No One's Ready ,22,3,7,7,4,0,4,8.9,1,0,0,1,1,1,1,1,4,1,1,0,1
+F003 3,The One with the Jam ,22,3,6,8,5,0,4,7.8,0,0,0,1,0,0,0,1,4,0,2,0,1
+F003 4,The One with the Metaphorical Tunnel,22,3,6,8,5,0,4,7.8,0,0,0,1,1,1,1,1,1,0,2,0,1
+F003 5 ,The One with Frank Jr.,22,3,7,8,5,0,3,8,0,0,0,1,1,0,1,1,4,0,3,1,1
+F003 6,The One with the Flashback,22,3,7,7,4,0,4,9,1,0,0,1,0,0,0,1,4,0,2,0,1
+F003 7,The One with the Race Car Bed,22,3,6,8,5,0,4,8.1,0,0,0,1,1,0,1,1,4,0,2,1,1
+F003 8,The One with the Giant Poking Device,22,3,6,8,5,0,4,8.2,0,0,0,1,1,1,0,1,1,1,3,0,1
+F003 9,The One with the Football,22,3,6,8,5,0,3,8.9,0,0,0,1,0,0,1,1,4,0,1,0,1
+F003 10,The One Where Rachel Quits,22,3,7,8,5,0,3,8,1,0,0,1,1,0,1,1,2,1,3,1,1
+F003 11,The One Where Chandler Can't Remember Which Sister ,22,3,7,9,6,0,3,8.4,0,0,0,1,1,1,1,1,1,0,2,0,1
+F003 12,The One with All the Jealousy ,22,3,6,8,5,0,3,8,1,0,0,1,1,0,1,1,3,1,3,0,1
+F003 13,The One Where Monica and Richard Are Just Friends,22,3,7,8,5,0,3,8.1,0,1,0,1,1,0,0,1,4,0,2,1,1
+F003 14,The One with Phoebe's Ex-Partner,22,3,7,7,4,0,4,7.6,0,0,1,1,0,1,1,1,4,0,3,1,1
+F003 15,The One Where Ross and Rachel Take a Break,22,3,6,8,5,0,4,8.4,1,0,0,1,0,0,1,1,4,1,3,0,1
+F003 16,The One the Morning After,22,3,7,8,5,0,3,9,1,0,0,1,0,0,1,1,1,1,1,0,1
+F003 17,The One Without the Ski Trip,22,3,7,7,4,0,3,8.2,0,0,0,1,1,1,1,1,4,1,2,0,1
+F003 18 ,The One with the Hypnosis Tape,22,3,6,8,5,0,4,8.2,0,0,0,1,0,1,0,1,1,0,2,0,1
+F003 19 ,The One with the Tiny T-Shirt,22,3,7,8,5,0,4,8,0,0,0,1,1,0,1,1,4,1,3,0,1
+F003 20 ,The One with the Dollhouse,22,3,7,7,4,0,4,7.9,0,0,0,1,0,1,0,1,1,0,2,0,1
+F003 21,The One with a Chick and a Duck,22,3,7,8,5,0,3,8.6,0,0,0,1,1,1,1,1,4,0,2,0,1
+F003 22,The One with the Screamer,22,3,6,8,5,0,3,8.1,0,0,0,1,1,0,1,1,4,1,3,1,1
+F003 23,The One with Ross's Thing ,22,3,7,9,6,0,3,7.8,0,0,0,1,0,0,1,1,4,1,2,1,1
+F003 24,The One with the Ultimate Fighting Champion,22,3,7,9,6,0,4,8,0,0,0,1,0,1,1,1,4,0,2,1,1
+F003 25 ,The One at the Beach ,22,3,7,9,6,0,4,8.7,1,1,0,1,0,0,1,1,4,0,1,1,2
+F004 1,The One with the Jellyfish,22,4,7,7,4,0,5,8.9,0,0,0,1,1,1,1,1,4,1,2,0,1
+F004 2 ,The One with the Cat,22,4,7,8,5,0,3,7.9,0,0,0,1,1,1,0,1,1,1,3,0,1
+F004 3,The One with the 'Cuffs,22,4,7,8,5,0,6,8.4,0,0,0,1,1,1,0,1,1,0,2,0,1
+F003 4,The One with the Ballroom Dancing,22,4,6,8,5,0,7,8,0,0,0,1,1,1,1,1,4,0,2,0,1
+F004 5 ,The One with Joey's New Girlfriend,22,4,7,8,5,0,5,8.2,0,0,0,1,1,1,1,1,1,0,3,1,1
+F004 6,The One with the Dirty Girl,22,4,7,7,4,0,6,8.4,0,0,0,1,1,1,1,1,1,1,3,1,1
+F004 7,The One Where Chandler Crosses the Line ,22,4,6,8,5,0,4,8.6,0,0,0,1,1,1,1,1,4,0,3,0,1
+F004 8,The One with Chandler in a Box,22,4,7,8,5,0,5,9,0,0,0,1,1,1,0,1,1,0,2,1,1
+F004 9,The One Where They're Going to Party!,22,4,7,8,5,0,6,7.7,0,0,0,1,0,1,1,1,3,0,2,0,1
+F004 10,The One with the Girl from Poughkeepsie,22,4,7,8,5,0,6,7.9,1,0,0,1,1,1,1,1,3,1,3,1,1
+F004 11,The One with Phoebe's Uterus,22,4,6,9,6,0,7,8.4,0,0,1,1,1,1,0,1,3,0,2,0,1
+F004 12,The One with the Embryos,22,4,7,8,5,0,5,9.4,1,0,0,1,1,1,0,1,1,0,1,0,1
+F004 13,The One with Rachel's Crush,22,4,7,8,5,0,4,8,1,0,0,1,0,1,0,1,4,1,3,1,1
+F004 14,The One with Joey's Dirty Day,22,4,6,7,4,0,4,8.1,0,0,0,1,1,1,1,1,3,1,3,0,1
+F004 15,The One with All the Rugby,22,4,7,8,5,0,5,8.3,0,0,0,1,0,1,1,1,4,1,2,1,1
+F004 16,The One with the Fake Party,22,4,7,8,5,0,4,8,1,0,0,1,0,0,0,1,4,1,2,0,1
+F004 17,The One with the Free Porn ,22,4,7,8,5,0,6,8.5,1,0,0,1,1,1,1,1,1,1,2,0,1
+F004 18 ,The One with Rachel's New Dress,22,4,6,8,5,0,8,8.1,1,0,0,1,0,0,1,1,1,1,3,0,1
+F004 19 ,The One with All the Haste,22,4,7,7,4,0,4,8.6,0,0,0,1,1,1,1,1,1,1,2,0,1
+F004 20 ,The One with All the Wedding Dresses,22,4,7,8,5,0,6,8.4,1,1,0,1,1,1,1,1,4,1,2,0,1
+F004 21,The One with the Invitation,22,4,7,8,5,0,9,6.9,0,0,0,1,1,1,1,1,1,1,2,0,1
+F004 22,The One with the Worst Best Man Ever,22,4,6,8,5,0,6,8.3,0,0,0,1,1,1,1,1,4,1,2,1,1
+F004 23,The One with Ross's Wedding: Part 1,22,4,7,9,6,0,7,8.6,1,0,0,1,0,0,1,1,4,1,1,1,2
+F004 24,The One with Ross's Wedding: Part 2,22,4,7,9,6,0,9,9.1,1,0,0,1,0,1,1,1,4,1,1,1,2
+F005 1,The One After Ross Says Rachel ,22,5,7,7,5,0,7,8.8,1,0,0,1,0,1,1,1,4,1,2,0,1
+F005 2 ,The One with All the Kissing,22,5,7,7,5,0,3,8.9,1,0,0,1,0,1,1,1,4,2,3,0,1
+F005 3,The One Hundredth,22,5,7,8,5,0,6,8.7,0,0,0,1,1,1,0,1,4,0,1,1,1
+F005 4,The One Where Phoebe Hates PBS,22,5,6,8,4,0,5,8.1,0,0,1,1,1,1,1,1,1,2,2,1,1
+F005 5 ,The One with the Kips,22,5,7,8,5,0,3,8.6,0,0,0,1,0,1,1,1,4,2,2,0,1
+F005 6,The One with the Yeti,22,5,7,7,5,0,4,7.8,0,0,0,1,0,0,0,1,1,1,3,1,1
+F005 7,The One Where Ross Moves In,22,5,6,8,6,0,4,8.1,0,0,0,1,1,1,1,1,1,0,2,0,1
+F005 8,1,22,5,7,8,5,0,5,9,1,1,0,1,0,0,0,1,1,2,1,0,1
+F005 9,The One with Ross's Sandwich,22,5,7,8,4,0,5,9,0,0,0,1,1,1,1,1,3,1,3,0,1
+F005 10,The One with the Inappropriate Sister,22,5,7,8,5,0,7,8,0,0,0,1,1,1,1,1,1,0,2,1,1
+F005 11,The One with All the Resolutions,22,5,6,8,5,0,4,9,0,0,0,1,1,1,1,1,1,2,2,0,1
+F005 12,The One with Chandler's Work Laugh ,22,5,7,8,6,0,5,8.1,0,0,0,1,0,1,1,1,3,2,2,0,1
+F005 13,The One with Joey's Bag,22,5,7,8,5,0,3,7.9,0,0,0,1,0,1,0,1,4,2,3,1,1
+F005 14,The One Where Everybody Finds Out,22,5,6,7,5,1,3,9.7,1,0,0,1,0,1,0,1,1,2,2,0,1
+F005 15,The One with the Girl Who Hits Joey,22,5,7,8,6,0,5,8.3,0,0,0,1,1,1,1,1,1,2,3,1,1
+F005 16,The One with the Cop,22,5,7,8,5,0,5,8.5,0,0,0,1,1,0,1,1,2,0,2,1,1
+F005 17,The One with Rachel's Inadvertent Kiss,22,5,7,8,6,0,5,8.3,1,0,0,1,1,0,1,1,2,1,3,0,1
+F005 18 ,The One where Rachel Smokes,22,5,6,7,5,0,7,7.8,1,0,0,1,1,0,1,1,2,0,3,0,1
+F005 19 ,The One Where Ross Can't Flirt,22,5,7,8,5,0,5,8.6,0,0,0,1,1,0,1,1,1,1,3,1,1
+F005 20 ,The One with the Ride-Along,22,5,7,8,6,0,4,8.1,0,0,0,1,1,1,1,1,4,2,2,0,1
+F005 21,The One with the Ball,22,5,7,8,6,0,5,8.3,0,0,0,1,1,0,1,1,1,2,2,0,1
+F005 22,The One with Joey's Big Break,22,5,6,7,5,0,3,8.1,0,0,0,1,1,0,1,1,4,2,2,1,1
+F005 23,The One in Vegas: Part 1 ,22,5,7,8,6,0,6,8.6,1,0,0,1,0,1,1,1,4,2,1,1,2
+F005 24,The One in Vegas: Part 2,22,5,7,8,5,0,6,9,1,0,0,1,0,1,1,1,4,1,1,1,2
+F006 1,The One After Vegas,22,6,7,7,6,0,6,8.6,1,0,0,1,1,1,1,1,4,1,2,0,1
+F006 2 ,The One Where Ross Hugs Rachel ,22,6,6,7,6,0,5,8,1,0,0,1,1,1,1,1,1,1,3,0,1
+F006 3,The One with Ross's Denial ,22,6,7,8,5,0,4,8,1,0,0,1,1,1,1,1,1,1,3,0,1
+F006 4,The One Where Joey Loses His Insurance,22,6,7,8,5,0,3,8.3,0,0,0,1,1,0,1,1,4,2,2,1,1
+F006 5 ,The One with Joey's Porsche,22,6,6,8,6,0,4,8,0,0,0,1,1,1,1,1,2,2,2,0,1
+F006 6,The One on the Last Night,22,6,7,7,5,0,5,8.4,0,0,0,1,1,1,0,1,1,2,2,0,1
+F006 7,The One Where Phoebe Runs ,22,6,7,8,6,0,4,8.2,0,0,1,1,1,1,0,1,1,0,3,1,1
+F006 8,The One with Ross's Teeth,22,6,6,8,5,0,4,8.3,0,0,0,1,0,0,1,1,2,1,2,0,1
+F006 9,The One Where Ross Got High ,22,6,7,8,5,0,5,9.1,0,0,0,1,1,1,1,1,1,2,1,0,1
+F006 10,The One with the Routine,22,6,7,8,5,0,4,8.5,0,0,0,1,1,1,1,1,4,2,1,1,1
+F006 11,The One with the Apothecary Table ,22,6,7,8,6,0,5,7.9,0,0,0,1,1,1,0,1,1,2,2,0,1
+F006 12,The One with the Joke ,22,6,6,8,5,0,4,7.8,0,0,0,1,1,1,1,1,2,2,3,0,1
+F006 13,The One with Rachel's Sister,22,6,7,8,6,0,5,8.1,1,0,0,1,0,0,1,1,1,1,3,1,1
+F006 14,The One Where Chandler Can't Cry,22,6,7,7,6,0,4,8.4,0,0,0,1,0,1,1,1,1,2,2,0,1
+F006 15,The One That Could Have Been: Part 1,22,6,6,8,5,0,5,8.3,1,0,0,1,0,0,0,1,1,0,1,0,2
+F006 16,The One That Could Have Been: Part 2,22,6,7,8,5,0,5,8.3,1,0,0,1,0,0,0,1,1,0,1,0,2
+F006 17,The One with Unagi,22,6,7,8,6,0,3,8.9,0,0,0,1,1,1,0,1,4,1,3,0,1
+F006 18 ,The One Where Ross Dates a Student,22,6,6,7,6,0,4,8.1,0,0,0,1,0,0,1,1,3,1,2,1,1
+F006 19 ,The One with Joey's Fridge,22,6,7,8,5,0,3,8.1,0,0,0,1,1,1,1,1,1,2,2,0,1
+F006 20 ,The One with Mac and C.H.E.E.S.E.,22,6,7,8,5,0,5,7.1,0,0,0,1,1,1,0,1,3,2,2,1,1
+F006 21,The One Where Ross Meets Elizabeth's Dad,22,6,6,8,6,0,5,8.5,1,0,0,1,1,1,1,1,1,1,2,1,1
+F006 22,The One where Paul's the Man ,22,6,7,7,5,0,6,8.9,0,0,0,1,1,0,1,1,3,1,2,1,1
+F006 23,The One with the Ring,22,6,7,8,5,0,6,8.4,1,0,0,1,0,1,0,1,4,2,2,0,1
+F006 24,The One with the Proposal: Part 1,22,6,7,8,6,0,7,8.6,1,1,0,1,1,1,1,1,4,2,1,0,2
+F006 25,The One with the Proposal: Part 2 ,22,6,7,8,6,0,7,9.2,1,0,0,1,0,1,0,1,4,2,1,0,2
+F007 1,The One with Monica's Thunder,22,7,6,7,6,0,6,8.2,0,1,0,1,1,1,1,1,1,2,2,0,1
+F007 2 ,The One with Rachel's Book,22,7,7,7,5,0,6,8.1,1,0,0,1,1,0,1,1,1,2,3,0,1
+F007 3,The One with Phoebe's Cookies,22,7,7,8,5,0,5,7.9,0,0,1,1,1,1,0,1,4,2,2,0,1
+F007 4,The One with Rachel's Assistant,22,7,6,8,6,0,5,7.9,1,0,0,1,1,1,0,1,3,1,3,1,1
+F007 5 ,The One with the Engagement Picture,22,7,7,8,5,0,5,7.9,0,1,0,1,1,1,1,1,4,2,2,0,1
+F007 6,The One with the Nap Partners,22,7,7,7,5,0,5,8.7,0,0,0,1,1,0,1,1,1,2,2,0,1
+F007 7,The One with Ross's Library Book,22,7,6,8,6,0,6,8.3,0,0,0,1,1,1,1,1,4,1,2,1,1
+F007 8,The One Where Chandler Doesn't Like Dogs ,22,7,7,8,6,0,5,8,0,0,0,1,1,1,1,1,4,2,3,0,1
+F007 9,The One with All the Candy ,22,7,7,8,5,0,5,7.9,0,0,0,1,0,0,1,1,4,2,3,0,1
+F007 10,The One with the Holiday Armadillo,22,7,6,8,5,0,6,8.4,0,0,0,1,1,0,1,1,1,2,1,0,1
+F007 11,The One with All the Cheesecakes,22,7,7,8,6,0,6,8.4,0,0,0,1,1,1,0,1,1,2,3,0,1
+F007 12,The One Where They're Up All Night ,22,7,7,8,6,0,5,8.5,0,0,0,1,0,0,0,1,1,2,1,0,1
+F007 13,The One Where Rosita Dies ,22,7,6,8,6,0,5,8.2,0,0,0,1,1,0,1,1,3,2,2,0,1
+F007 14,The One Where They All Turn Thirty ,22,7,7,7,5,0,6,8.4,0,0,0,1,0,0,0,1,1,2,1,0,1
+F007 15,The One with Joey's New Brain ,22,7,7,8,6,0,6,8.2,0,0,0,1,1,1,1,1,3,2,3,1,1
+F007 16,The One with the Truth About London ,22,7,6,8,6,0,5,8.6,0,0,0,1,0,1,1,1,1,2,2,0,1
+F007 17,The One with the Cheap Wedding Dress\,22,7,7,8,5,0,7,8.2,1,1,0,1,1,1,1,1,4,2,2,0,1
+F007 18 ,The One with Joey's Award ,22,7,7,7,6,0,5,8.2,0,0,0,1,1,0,0,1,4,2,3,0,1
+F007 19 ,The One with Ross and Monica's Cousin,22,7,6,8,6,0,7,8.5,0,1,0,1,1,0,1,1,3,0,2,1,1
+F007 20 ,The One with Rachel's Big Kiss,22,7,7,8,5,0,6,8.2,1,0,0,1,0,1,1,1,1,1,3,1,1
+F007 21,The One with the Vows,22,7,7,8,6,0,4,7.2,0,1,0,1,0,1,0,1,4,2,2,0,1
+F007 22,The One with Chandler's Dad ,22,7,7,7,5,0,6,8.2,0,0,0,1,0,1,1,1,4,2,1,1,1
+F007 23,The One with Monica and Chandler's Wedding: Part 1 ,22,7,7,8,6,0,9,8.7,0,1,0,1,1,1,0,1,4,2,1,1,2
+F007 24,The One with Monica and Chandler's Wedding: Part 2 ,22,7,7,8,6,0,9,9.1,0,1,0,1,0,1,1,1,4,2,1,1,2
+F008 1,"The One After ""I Do""",22,8,7,7,6,0,6,8.6,1,0,0,1,1,1,0,1,4,2,2,0,1
+F008 2 ,The One with the Red Sweater,22,8,6,7,5,0,5,9,1,0,0,1,1,1,1,1,1,1,3,0,1
+F008 3,The One Where Rachel Tells...,22,8,7,8,6,0,6,8.6,1,0,0,1,0,1,0,1,1,1,2,0,1
+F008 4,The One with the Videotape,22,8,7,8,5,0,5,9.2,0,0,0,1,0,0,1,1,1,1,3,0,1
+F008 5 ,The One with Rachel's Date,22,8,6,8,6,0,5,7.9,1,0,0,1,0,0,0,1,1,1,2,1,1
+F008 6,The One with the Halloween Party,22,8,7,7,5,0,7,8.4,0,0,0,1,0,1,0,1,1,2,1,1,1
+F008 7,The One with the Stain ,22,8,7,8,6,0,4,7.7,0,0,0,1,1,1,1,1,1,2,2,0,1
+F008 8,The One with the Stripper,22,8,6,8,5,0,6,8.6,0,0,0,1,0,1,0,1,4,2,1,1,1
+F008 9,The One with the Rumor ,22,8,7,8,6,0,5,9.2,0,0,0,1,0,0,1,1,1,1,1,1,1
+F008 10,The One with Monica's Boots,22,8,7,8,6,0,5,7.9,0,1,0,1,1,1,0,1,1,2,3,0,1
+F008 11,The One with the Creepy Holiday Card,22,8,6,8,5,0,6,7.8,0,0,0,1,0,1,1,1,1,1,2,0,1
+F008 12,The One Where Joey Dates Rachel ,22,8,7,8,5,0,5,8.4,1,0,0,1,1,0,1,1,4,1,3,0,1
+F008 13,The One Where Chandler Takes a Bath ,22,8,7,8,6,0,5,8.4,0,0,0,1,1,1,1,1,1,2,2,0,1
+F008 14,The One with the Secret Closet ,22,8,6,7,6,0,4,8,0,0,0,1,0,1,1,1,1,2,2,0,1
+F008 15,The One with the Birthing Video ,22,8,7,8,5,0,7,8.2,1,0,1,1,1,1,1,1,1,1,2,0,1
+F008 16,The One Where Joey Tells Rachel ,22,8,7,8,6,0,5,8.1,1,0,0,1,1,1,1,1,1,1,2,0,1
+F008 17,The One with the Tea Leaves,22,8,6,8,6,0,6,7.9,0,0,0,1,1,1,0,1,1,1,3,0,1
+F008 18 ,The One in Massapequa ,22,8,7,7,6,0,7,8,0,0,0,1,0,0,0,1,1,2,1,1,1
+F008 19 ,The One with Joey's Interview ,22,8,7,8,5,0,5,7.2,0,0,0,1,1,0,0,1,3,0,2,0,1
+F008 20 ,The One with the Baby Shower ,22,8,6,8,6,2,8,8.1,1,0,0,1,1,1,1,1,1,1,2,0,1
+F008 21,The One with the Cooking Class,22,8,7,8,5,0,6,8,1,1,0,1,1,0,1,1,4,2,2,0,1
+F008 22,The One Where Rachel Is Late ,22,8,7,7,6,0,6,8.2,1,0,0,1,1,1,0,1,1,1,2,0,1
+F008 23,The One Where Rachel Has a Baby: Part 1,22,8,7,8,5,0,10,8.7,1,0,0,1,0,0,1,1,4,1,1,1,2
+F008 24,The One Where Rachel Has A Baby: Part 2 ,22,8,7,8,6,0,11,8.8,1,0,0,1,0,0,0,1,4,1,1,1,2
+F009 1,The One Where No One Proposes,22,9,7,7,6,0,6,8.5,1,0,0,1,1,1,1,1,4,1,2,0,1
+F009 2 ,The One Where Emma Cries,22,9,6,7,6,0,7,8.4,1,0,0,1,0,1,0,1,1,1,2,0,1
+F009 3,The One with the Pediatrician ,22,9,7,8,5,0,6,8.1,1,0,0,1,1,1,0,1,1,3,3,1,1
+F009 4,The One with the Sharks ,22,9,7,8,6,0,5,8,0,0,0,1,0,1,0,1,1,2,2,0,1
+F009 5 ,The One with Phoebe's Birthday Dinner ,22,9,6,8,5,0,6,8.3,0,0,1,1,0,0,0,1,4,2,2,0,1
+F009 6,The One with the Male Nanny,22,9,7,7,6,0,5,8.2,0,0,0,1,0,1,1,1,1,1,3,1,1
+F009 7,The One with Ross's Inappropriate Song ,22,9,7,8,5,0,4,8.5,0,0,0,1,1,1,1,1,1,1,2,0,1
+F009 8,The One with Rachel's Other Sister,22,9,6,8,6,0,7,8.7,1,0,0,1,0,0,0,1,4,1,1,1,1
+F009 9,The One with Rachel's Phone Number,22,9,7,8,6,0,5,8,1,0,0,1,0,0,0,2,4,1,3,0,1
+F009 10,The One with Christmas in Tulsa,22,9,7,8,5,0,5,7.2,1,0,0,1,0,1,0,1,4,2,1,0,1
+F009 11,The One Where Rachel Goes Back to Work ,22,9,6,8,6,0,6,7.8,1,0,0,1,1,1,0,1,3,1,2,0,1
+F009 12,The One with Phoebe's Rats,22,9,7,8,6,0,5,7.7,0,0,1,1,1,0,1,1,1,3,2,1,1
+F009 13,The One Where Monica Sings ,22,9,7,8,5,0,4,7.9,0,1,0,1,1,1,0,1,4,2,2,0,1
+F009 14,The One with the Blind Dates,22,9,6,7,6,0,6,8,1,0,0,1,1,1,1,1,4,1,3,0,1
+F009 15,The One with the Mugging ,22,9,7,8,6,0,5,8.1,0,0,0,1,1,1,1,1,3,3,2,0,1
+F009 16,The One with the Boob Job ,22,9,7,8,5,0,5,8,0,0,0,1,1,1,0,1,1,2,2,0,1
+F009 17,The One with the Memorial Service ,22,9,6,8,6,0,6,8.3,0,0,0,1,0,1,1,1,1,1,2,0,1
+F009 18 ,The One with the Lottery ,22,9,7,7,5,0,5,8.5,0,0,0,1,0,1,0,1,1,2,2,0,1
+F009 19 ,The One with Rachel's Dream ,22,9,7,8,6,0,5,7.9,1,0,0,1,1,1,1,1,4,1,2,0,1
+F009 20 ,The One with the Soap Opera Party,22,9,6,8,6,0,6,8.1,0,0,0,1,1,0,1,1,4,1,2,1,1
+F009 21,The One with the Fertility Test ,22,9,7,8,5,0,6,8.1,1,0,0,1,1,1,1,1,4,2,1,0,1
+F009 22,The One with the Donor ,22,9,7,7,6,0,5,7.6,1,0,0,1,1,1,1,1,4,2,2,1,1
+F009 23,The One in Barbados: Part 1,22,9,7,8,6,0,9,8.5,1,0,0,1,0,0,0,2,4,3,1,1,2
+F009 24,The One in Barbados: Part 2,22,9,7,8,6,0,9,8.1,1,0,0,1,1,0,1,1,4,3,1,1,2
+F010 1,The One After Joey and Rachel Kiss,22,10,7,7,6,0,6,8.4,1,0,0,1,1,1,1,1,1,1,1,0,1
+F010 2 ,The One Where Ross Is Fine ,22,10,6,7,5,0,5,8.7,1,0,0,1,1,0,0,1,4,1,2,0,1
+F010 3,The One with Ross's Tan ,22,10,7,8,6,0,5,8.6,0,0,0,1,0,0,1,1,1,1,6,0,1
+F010 4,The One with the Cake ,22,10,7,8,5,0,6,8.2,0,0,0,1,1,1,1,1,1,0,0,0,1
+F010 5 ,The One Where Rachel's Sister Babysits ,22,10,6,8,6,0,7,8,1,0,0,1,0,0,0,1,4,3,6,1,1
+F010 6,The One with Ross's Grant,22,10,7,7,6,0,5,8,0,0,0,1,0,1,1,1,4,1,6,1,1
+F010 7,The One with the Home Study ,22,10,7,8,5,0,6,8.1,1,0,0,1,1,1,1,1,4,3,6,0,1
+F010 8,The One with the Late Thanksgiving ,22,10,6,8,6,0,6,8.8,0,0,0,1,0,1,1,1,4,0,0,0,1
+F010 9,The One with the Birth Mother ,22,10,7,8,5,0,7,8.4,1,0,0,1,0,1,0,1,1,2,6,1,1
+F010 10,The One Where Chandler Gets Caught ,22,10,7,8,6,0,6,7.8,0,0,0,1,1,1,0,1,4,3,6,0,1
+F010 11,The One Where the Stripper Cries,22,10,6,8,5,0,5,8.9,0,0,0,1,0,0,1,1,4,2,0,1,1
+F010 12,The One with Phoebe's Wedding,22,10,7,8,6,0,9,8.8,0,1,1,1,1,0,0,1,1,3,0,1,2
+F010 13,The One Where Joey Speaks French ,22,10,7,8,6,0,4,8.3,0,0,0,1,1,1,1,1,1,0,0,0,1
+F010 14,The One with Princess Consuela ,22,10,6,7,5,0,6,8.4,0,0,0,1,1,1,1,1,1,2,0,0,1
+F010 15,The One Where Estelle Dies,22,10,7,8,6,0,5,8.4,0,0,0,1,0,0,1,1,1,1,6,0,1
+F010 16,The One with Rachel's Going Away Party ,22,10,7,8,5,0,7,8.8,1,0,0,1,0,0,0,1,1,2,0,0,1
+F010 17,The Last One: Part 1 ,22,10,6,8,6,0,10,9.6,1,1,1,1,1,1,1,2,1,1,2,0,2
+F010 18 ,The Last One: Part 2 ,18,10,7,7,6,0,11,9.5,1,1,1,1,1,1,1,1,1,1,2,0,2
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,, ,,,,,,,,,,,,,,,,,,
